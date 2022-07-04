@@ -1,0 +1,66 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 50% 50%;
+}
+
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+.flex{
+    display: flex;
+    text-align: justify;
+}
+.color-text{
+    color: orange;
+}
+small{
+    font-size: 15px;
+    font-style: italic;
+    color: white;
+    background-color: black;
+    border-radius: 5px;
+}
+.para{
+    padding-right: 10%;
+    color: #696969;
+}
+.link{
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(yellow, orange);
+    padding: .5% 3%;
+    border-radius: 10px;
+}
+.divi{
+    width: 50%;
+    box-shadow: 10px 10px 40px rgb(59, 58, 58);
+    margin: 0px 40px;
+    padding-right: 3%;
+    padding-left: 3%;
+    padding-bottom: 3%;
+    border-radius: 30px;
+    border-left: 10px solid red;
+    border-right: 10px solid orange;
+}
+#last{
+    width: 50%;
+    box-shadow: 10px 10px 40px rgb(59, 58, 58);
+    margin: 0px 40px;
+    padding-right: 3%;
+    padding-left: 3%;
+    padding-bottom: 3%;
+    border-radius: 30px;
+    border-right: 10px solid orange; 
+}
+footer{
+    text-align: center;
+    color: #696969;
+}
+#letter{
+    color: orange;
+}
